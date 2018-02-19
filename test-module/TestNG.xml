@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test-Samples">
+
+
+<test name="Sanity">
+<classes>
+<class name="org.openlmis.test_module.AppTest"></class>
+
+</classes>
+</test>
+
+
+
+</suite>
